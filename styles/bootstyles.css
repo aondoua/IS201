@@ -1,0 +1,34 @@
+.container{
+    text-align: center;
+}
+.container:after {
+    content:"";
+    display: table;
+    clear: both;
+} 
+.left {
+    float: left;
+    
+
+}
+.center {
+    margin: 0 auto;
+    display: inline-block;
+    
+}
+.right {
+    float: right;
+}
+body, header{
+    background-color: #E1AD01;
+}
+
+h1, h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.tableaudiv{
+    background-color: white;
+}

@@ -1,0 +1,21 @@
+h1{
+    color: whitesmoke;
+}
+.mystyle{
+    font-weight: 100;
+    color: black;
+    font-family:'Times New Roman', Times, serif
+}
+.petit{
+    font-weight: 500;
+    font-size: small;
+}
+h2 {
+    font-size:larger;
+    color: grey;
+    text-decoration: double;
+}
+.credits{
+    font-size: xx-small;
+    text-decoration: underline;
+}
